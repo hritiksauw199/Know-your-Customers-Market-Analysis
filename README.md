@@ -13,6 +13,8 @@ is most likely to buy the product and then market the product only on that parti
 **Goal** : Peform clustering to summarize customer segments to 
 market them with relevant products.
 
+Dataset Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
 # Column Description
 
 > People
