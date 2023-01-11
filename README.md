@@ -1,6 +1,5 @@
 # Know your Customers - Market Analysis (Customer Segmentation)
 
-****
 
 # Problem Statment
 
